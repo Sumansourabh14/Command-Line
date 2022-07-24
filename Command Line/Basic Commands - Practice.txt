@@ -1,0 +1,174 @@
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ echo $SHELL
+/usr/bin/bash
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ mk dir Folder1
+bash: mk: command not found
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ mkdir Folder2
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ cd desktop
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ mkdir Folder4
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ ^C
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ ls -a
+ ./    desktop.ini   Folder4/     Notion.lnk*    Spotify.lnk*
+ ../   Figma.lnk*    Hyper.lnk*   Shotcut.lnk*  'Visual Studio Code.lnk'*
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ ls
+ desktop.ini   Folder4/     Notion.lnk*    Spotify.lnk*
+ Figma.lnk*    Hyper.lnk*   Shotcut.lnk*  'Visual Studio Code.lnk'*
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ cd ~
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+'Control Panel - Shortcut.lnk'*
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ step/
+ Templates@
+ Videos/
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ cd st
+Start Menu/ step/       
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ 
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ cd step
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/step
+$ cd ..
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ cd ..
+
+DELL@DESKTOP-76R4H5I MINGW64 /c/Users
+$ cd ~
+
+DELL@DESKTOP-76R4H5I MINGW64 ~
+$ cd desktop
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ touch newText.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ start newText.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ stop newText.txt
+bash: stop: command not found
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ rm newText.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ pwd
+/c/Users/DELL/desktop
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ cd folder4
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ touch t.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ touch t2.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ touch t3.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ rm *
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ mkdir New1
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ rm New1
+rm: cannot remove 'New1': Is a directory
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ cd New1
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4/New1
+$ touch newT.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4/New1
+$ rm newT.txt
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4/New1
+$ cd ..
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ cd ..
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ cd folder4
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ pwd
+/c/Users/DELL/desktop/folder4
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ rm -r new1
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop/folder4
+$ cd ..
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ echo hello
+hello
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ echo this is
+this is
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$ echo printing out a word
+printing out a word
+
+DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
+$
