@@ -169,6 +169,3 @@ this is
 DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
 $ echo printing out a word
 printing out a word
-
-DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
-$
