@@ -98,10 +98,6 @@ DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
 $ start newText.txt
 
 DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
-$ stop newText.txt
-bash: stop: command not found
-
-DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
 $ rm newText.txt
 
 DELL@DESKTOP-76R4H5I MINGW64 ~/desktop
